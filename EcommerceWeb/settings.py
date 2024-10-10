@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-huqi#v(u9ho)&$p*^)b#b7(xa*%k@%(kv&zj(8rh%$j$vj4i&$
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS =  ['13.232.115.178', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS =  ['13.235.71.72', 'localhost', '127.0.0.1']
 
 
 
